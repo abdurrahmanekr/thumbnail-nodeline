@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sharp": "^0.20.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "thumbnail-nodeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Avare Kodcu <abdurrahmaneker58@gmail.com>"
+}
